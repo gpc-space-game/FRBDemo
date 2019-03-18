@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mint/Documents/FlatRedBallProjects/TriangleTest/TriangleTest/Content/Entities/Cat/Meows/sfinosMeow02.wav</SourceFile>
+  <SourceTime>2019-03-16T15:31:16+02:00</SourceTime>
+  <DestFile>C:/Users/Mint/Documents/FlatRedBallProjects/TriangleTest/BuiltXnbs/DesktopGL/Entities/Cat/Meows/sfinosMeow02.xnb</DestFile>
+  <DestTime>2019-03-17T00:31:20.1794592+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2019-03-06T00:23:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2019-03-06T00:23:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
