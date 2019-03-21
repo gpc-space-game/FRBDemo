@@ -7,7 +7,7 @@
 *.csvSettings
 *.sln.metaproj
 *.dll
-!TriangleTest/Libraries/
+!TriangleTest/Libraries/DesktopGl
 !FileAliases.Generated.cs
 TriangleTest/TriangleTest/bin/
 TriangleTest/bin/
